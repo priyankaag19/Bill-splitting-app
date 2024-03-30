@@ -15,11 +15,14 @@ Install dependencies for both the frontend and backend:
 
 # For frontend
 cd frontend
+
 npm install
 
 # For backend
 cd ../backend
+
 npm install
+
 Start the backend server:
 
 # Inside the backend directory
@@ -28,6 +31,7 @@ Start the backend development server:
 
 # Inside the frontend directory
 npm start
+
 Open your web browser and navigate to http://localhost:3000 to view the application.
 
 Environment Setup and Configurations
