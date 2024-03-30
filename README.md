@@ -18,19 +18,15 @@ Install dependencies for both the frontend and backend:
 # For frontend
 cd frontend
 
-npm install
-
 # For backend
 cd ../backend
-
-npm install
 
 Start the backend server:
 
 # Inside the backend directory
 node server.js
 
-Start the backend development server:
+Start the frontend development server:
 
 # Inside the frontend directory
 npm start
